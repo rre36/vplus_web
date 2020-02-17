@@ -1,13 +1,16 @@
-Copyright (C) 2020 RRe36
+---
+layout: page
+title: TERMS AND CONDITIONS
+---
+
+**Copyright (C) 2019 RRe36**
+
  All Rights Reserved unless otherwise explicitly stated.
  
-By downloading this project or associated files you agree to the terms
-and conditions detailed below.
+By downloading this project or associated files you agree to the terms and conditions
+detailed below.
 
-
-                       TERMS AND CONDITIONS
-
-  0. Definitions.
+#### 0. Definitions.
   
   "Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.
@@ -39,7 +42,7 @@ parties to make or receive copies.  Mere interaction with a user through a
 computer network, with no transfer of a copy, is not conveying.
 
 
-  1. Redistribution
+#### 1. Redistribution
 
   Public propagation of this project or parts of it requires you to
 exclusively use the official links provided by the author. This means that
@@ -51,7 +54,7 @@ required to ask for explicit permission before adding this project to
 its database.
 
 
-  2. Private Modifications
+#### 2. Private Modifications
 
   Users are allowed to create private modifications of this project
 without explicit permission. Redistribution of these modified versions
@@ -59,7 +62,7 @@ however require explicit permission by the author of the original project.
   See section 3 for more information about public modifications.
 
 
-  3. Public Modifications
+#### 3. Public Modifications
 
   Public redistribution of a modified version of this project requires
 explicit permission from the original author. In order for the
@@ -72,7 +75,7 @@ strictly prohibited unless explicit permission by the original project's
 author is given.
 
 
-  4. Usage of parts of this project as part of another, original project
+#### 4. Usage of parts of this project as part of another, original project
 
   Using parts of this projects source code as part of another, original
 project requires explicit permission from this projects author.
@@ -81,7 +84,7 @@ clearly credited. Additionally any means of monetization on this modified
 version are prohibited unless explicit permission is given.
 
 
-  5. Liability
+#### 5. Liability
 
   The project is provided "as is", without warranty of any kind, express
 or implied, including but not limited to the warranties of merchantability,
@@ -92,7 +95,7 @@ out of or in connection with the project or the use or other dealings in the
 project.
 
 
-  6. Disclaimer
+#### 6. Disclaimer
 
   This License and its terms are subject to change and review at any time
 by this projects author.
