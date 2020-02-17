@@ -1,6 +1,6 @@
 <h1>Screenshots</h1>
 
-<h2>Vanilla Plus:</h2>
+#### Version 1.2
 
 ![vplus_1.2_a](https://raw.githubusercontent.com/rre36/glProjectsWeb/gh-pages/img/vplus_1.2_a.jpg)
 
