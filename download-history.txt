@@ -1,15 +1,15 @@
-2020-01-17
-VPlus Github: 55k
-VPlus Curseforge: 100k
-Simplicissimus Github: 4.2k
-Simplicissimus Curseforge: 2.1k
+Pre Repo-Move: 55k
 
+2020-01-17
+Curseforge: 100k
 Total: 162k
 
 2020-02-05
-VPlus Github: 55k
-VPlus Curseforge: 107k
-Simplicissimus Github: 4.2k
-Simplicissimus Curseforge: 3.0k
-
+Github: 55k
+Curseforge: 107k
 Total: 170k
+
+2020-02-20
+Github: 850
+Curseforge: 112k
+Total: 168k
